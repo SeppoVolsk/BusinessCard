@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="owner_name">Сергей Кузнецов</string>
+    <string name="role">Разработчик мобильных приложений</string>
+    <string name="social_tag">\@serejkuz</string>
+    <string name="phone">+7 960 247 91 13</string>
+    <string name="mail">serejkuz@vk.com</string>
+</resources>
